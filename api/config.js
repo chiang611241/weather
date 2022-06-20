@@ -1,0 +1,2 @@
+export const FAST_REFRESH = false;
+export const WEATHER_CODE = 'CWB-E973C6F8-84CA-4851-ABCC-89B71E95BD0D';
